@@ -1,0 +1,69 @@
+body{
+    background-image: linear-gradient(to bottom, black, blue, whitesmoke);
+    font: normal 1em cursive;
+    margin: auto;
+}
+h1{
+    color: whitesmoke;
+    font-family: cursive;
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 2px 2px 2px red;
+}
+.p{
+    color: whitesmoke;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 1px 1px blue;
+}
+fieldset{
+    width: 225px;
+    margin:auto;
+    border-radius: 9px;
+    position: relative;
+    background-color: whitesmoke;
+}
+legend{
+    text-shadow: 2px 2px 2px whitesmoke;
+}
+.enviar{
+    padding: 3px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.pedido{
+    text-align: center;
+    width: 300px;
+    height: 60px;  
+}
+.nome{
+    text-align: center;
+    width: 300px;
+}
+.endereço{
+    text-align: center;
+    width: 300px;
+    height: 30px;
+}
+h4{
+    text-align: center;
+}
+a{
+  color: whitesmoke;
+  font: normal 1em arial;
+  text-decoration: none;
+}
+summary{
+    width: 65px;
+    cursor: pointer;
+    font: 600 1em arial;
+    position: relative;
+    color: whitesmoke;
+}
+.img{
+    width: 30em;
+    height: 20em;
+    margin: auto;
+    position: relative;
+    display: block;  
+}
